@@ -1,7 +1,11 @@
-vista>=0.19.0
+
 omfvista>=0.1.0
-git+git://github.com/OpenGeoVis/PVGeo@master
 xlrd
 matplotlib
 sklearn
 pyshp
+vtk==8.2.0
+pyvista==0.24.1
+numpy==1.18.1
+pvgeo==2.1.0
+discretize== 0.4.11
