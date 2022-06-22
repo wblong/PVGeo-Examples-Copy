@@ -5,6 +5,6 @@ matplotlib
 sklearn
 pyshp
 pyvista==0.24.1
-numpy==1.18.1
+numpy==1.22.0
 pvgeo==2.1.0
 discretize== 0.4.11
